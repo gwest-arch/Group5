@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages 
+## Group 5 Richie Deven Subham Garrett 
 
 You can use the [editor on GitHub](https://github.com/gwest-arch/Group5/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
